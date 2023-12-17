@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "47/SLprFockF/wdm7LiJk52yaHmL1cUoagS755hcVx8=",
+  "Source": "WebApiAuthors",
+  "BasePath": "_content/WebApiAuthors",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiAuthors\\wwwroot",
+      "Source": "WebApiAuthors",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\WebApiAuthors\\WebApiAuthors\\wwwroot\\",
+      "BasePath": "_content/WebApiAuthors",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Usuario\\source\\repos\\WebApiAuthors\\WebApiAuthors\\wwwroot\\Archivo1.txt",
+      "SourceId": "WebApiAuthors",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\source\\repos\\WebApiAuthors\\WebApiAuthors\\wwwroot\\",
+      "BasePath": "_content/WebApiAuthors",
+      "RelativePath": "Archivo1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo1.txt"
+    }
+  ]
+}
